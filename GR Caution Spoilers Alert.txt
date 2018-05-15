@@ -1,0 +1,11 @@
+<!-- Caution box for light spoilers in articles -->
+<!-- Have to use inline CSS because there's no reliable way to upload and link to an external file -->
+<style type="text/css">aside.spoilers{background-color:#ffcc00;color:#000!important;width:90%;margin:20px auto;padding:10px 30px;border-radius:15px}.warning-image{float:left;margin:0 15px 0px 0}.warning-image-text{padding-top:15px;}.warning-image-text span{font:800 20px/24px "Merriweather Sans",sans-serif !important;}.warning-divider{border-bottom:3px solid #fff;width:100%;clear:both}.warning-text{padding: 10px 0px 10px 0px;}.warning-text span{font:800 16px/26px "Merriweather Sans",sans-serif !important;color:#000}</style>
+<!-- HTML starts here -->
+<aside class="spoilers">
+<div class="warning-image"><img src="http://www.gamerevolution.com/assets/uploads/2018/04/ic_warning_white_48dp_1x.png" /></div>
+<div class="warning-image-text"><span>CAUTION!</span></div>
+<div class="warning-divider"></div>
+<!-- Replace "Placeholder" with game name -->
+<div class="warning-text"><span>The article below contains minor spoilers for <em>Placeholder</em></span></div>
+</aside>

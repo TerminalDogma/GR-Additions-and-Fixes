@@ -1,0 +1,11 @@
+<!-- Heavy spoilers warning for GR articles -->
+<!-- Use inline CSS because there's no way to reliably link to an external -->
+<style type="text/css">aside.spoilers{background-color:#ec2224;color:#fff!important;width:90%;margin:20px auto;padding:10px 30px;border-radius:15px}.warning-image{float:left;margin:0 15px 0px 0}.warning-image-text{padding-top:15px;}.warning-image-text span{font:800 20px/24px "Merriweather Sans",sans-serif !important;}.warning-divider{border-bottom:3px solid #fff;width:100%;clear:both}.warning-text{padding: 10px 0px 10px 0px;}.warning-text span{font:800 16px/26px "Merriweather Sans",sans-serif !important;color:#fff}</style>
+<!-- HTML starts here -->
+<aside class="spoilers">
+<div class="warning-image"><img src="http://www.gamerevolution.com/assets/uploads/2018/04/ic_warning_white_48dp_1x.png" /></div>
+<div class="warning-image-text"><span>WARNING!</span></div>
+<div class="warning-divider"></div>
+<!-- Replace "Placeholder" with game title -->
+<div class="warning-text"><span>The article below contains spoilers for <em>Placeholder</em></span></div>
+</aside>
