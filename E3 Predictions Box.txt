@@ -1,0 +1,24 @@
+<!-- Have to use inline style. No way to upload and link to CSS file reliably. -->
+<style type="text/css">.e3leaderboard{background-color:#ed3629;color:#fff;padding:20px;border-radius:25px}.e3leaderboard h2{color:#fff!important}.headtext{text-align:center}.leaderboardnames{float:left}.leaderboardnames li{list-style-type:none;margin:5px}.clearfix{clear:both}</style>
+<!-- HTML starts here. -->
+<div class="e3leaderboard">
+<div class="headtext">
+<h2>
+Community E3 Predictions Leaderboard
+</h2>
+<strong>Updated: 05/15/2018 00:00 ET</strong>
+<h3>
+Top Three:
+</h3>
+</div>
+<div class="leaderboardnames">
+<ul class="names"></ul>
+<!-- Replace "Placeholder #" with names and scores -->
+<li><strong>Placeholder 1</strong></li>
+<li><strong>Placeholder 2</strong></li>
+<li><strong>Placeholder 3</strong></li>
+</div>
+<!-- Clears a float if we decide to use two columns of names -->
+<div class="clearfix">
+</div>
+</div>
