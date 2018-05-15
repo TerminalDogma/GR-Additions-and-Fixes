@@ -1,0 +1,11 @@
+<!-- Links for botton of articles -->
+<style type="text/css">.alsolink {font: 800 20px/24px "Merriweather Sans", sans-serif; color: #ec2224;} .bottomlink p{font: 800 20px/24px "Merriweather Sans", sans-serif !important; color: #ec2224;}.bottomlink li {font: 800 16px/26px "Merriweather Sans", sans-serif; color:#ec2224;}</style>
+<div class="alsolink">More Good Stuff:</div>
+<div class="bottomlink">
+<ul>
+<!-- Replace "Placeholder" with article title and link -->
+<li>Placeholder</li>
+<li>Placeholder</li>
+<li>Placeholder</li>
+</ul>
+</div>
