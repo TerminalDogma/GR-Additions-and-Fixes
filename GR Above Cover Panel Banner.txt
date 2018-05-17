@@ -1,0 +1,33 @@
+<--! HTML starts here -->
+<div class="e3banner">
+<div class="e3left">
+Check Out the GR E3 Predictions Contest
+</div>
+<div class="e3right">
+Enter for a Chance to Win a Game of Your Choice
+</div>
+<div class="clearfix">
+</div>
+</div>
+<--! CSS starts here -->
+.e3banner {
+  background-color: #ec2224;
+  color: white;
+  width: 100%;
+  border-radius: 15px;
+}
+.e3left {
+width: 35%;
+float: left;
+padding: 15px;
+font: 800 16px/26px "Merriweather Sans", sans-serif;
+}
+.e3right {
+width: 55%;
+float: left;
+padding: 15px;
+font: 400 16px/26px "Merriweather Sans", sans-serif;
+}
+.clearfix {
+  clear: both;
+}
